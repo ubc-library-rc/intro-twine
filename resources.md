@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Acknowledgements
+title: Resources
 nav_order: 19
 ---
 # Twine links
