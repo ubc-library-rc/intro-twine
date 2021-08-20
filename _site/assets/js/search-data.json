@@ -1,0 +1,152 @@
+{"0": {
+    "doc": "Acknowledgements",
+    "title": "Acknowledgements",
+    "content": "Site template adapted from the just-the-docs Jekyll template created by Patrick Marsceil and available under the MIT License. ",
+    "url": "http://localhost:4000/acknowledgements.html",
+    "relUrl": "/acknowledgements.html"
+  },"1": {
+    "doc": "Example projects",
+    "title": "Example projects",
+    "content": " ",
+    "url": "http://localhost:4000/content/example-projects.html",
+    "relUrl": "/content/example-projects.html"
+  },"2": {
+    "doc": "Extending Twine",
+    "title": "Extending Twine",
+    "content": "There are a number of tools that allow you to embed content into Twine projects with minimal knowledge of css, html, or javascript. The most straightforward way to embed content without technical know-how is through the use of iframes. Knightlab projects are a particularly great option for this approach. | Juxtapose lets you show comparison images overlaid on each other (eg. a before and after shot). | . | Timeline.js is designed to give you a quick narrative timeline of events. | . | StoryMap.js lets you represent a sequence of events on a map. | . All of these tools can be inserted into your twine project directly using iframes in the text field of a path element. Iframes are generally less secure than other ways of including information but this is less of an issue with static websites. Note that iframes reliant on external services are also breakable. ",
+    "url": "http://localhost:4000/content/extending-twine.html",
+    "relUrl": "/content/extending-twine.html"
+  },"3": {
+    "doc": "Getting started",
+    "title": "Getting Started",
+    "content": "There are two ways to get started with Twine: . | online editor | local download | . The online editor has the benefit that you don’t need to install anything to get started. Any files you create can be downloaded and later used with either the online editor or the local version of the software (if you choose to download in the future). The local download gives you a bit of persistence for your project (eg. if you accidentally close a browser tab in the online version you could lose your work). ",
+    "url": "http://localhost:4000/content/getting-started.html#getting-started",
+    "relUrl": "/content/getting-started.html#getting-started"
+  },"4": {
+    "doc": "Getting started",
+    "title": "Where are files saved?",
+    "content": "From the Twine documentation: . Online - “Stories are saved in the local storage of a web browser. This is isolated between a browser and its use of incognito or private windows. Clearing sessions and cookies in a browser may also clear the storage of Twine 2. Using a different browser also means accessing different local storage.” . Always save your work when using the Online editor, especially clearing your cache. Desktop - “When used as a desktop application, Twine 2 stores its files under the current user’s files. The current collection of Stories can be accessed through the View -&gt; Show Story Library menu option.” . This means that files are stored wherever you normally save your files (eg. Documents if that’s your default folder for files). Twine will create a new folder called “Twine” in that default location (eg. Documents) and you will be able to find saved .html files of your Twine stories in a sub-folder called “Stories”. ",
+    "url": "http://localhost:4000/content/getting-started.html#where-are-files-saved",
+    "relUrl": "/content/getting-started.html#where-are-files-saved"
+  },"5": {
+    "doc": "Getting started",
+    "title": "Adding content",
+    "content": "For simplicity’s sake, use the Twine editor to add content. You are able to directly edit the generated .html file but unless you are comfortable editing HTML and Javascript, this can come with a steeper learning curve. ",
+    "url": "http://localhost:4000/content/getting-started.html#adding-content",
+    "relUrl": "/content/getting-started.html#adding-content"
+  },"6": {
+    "doc": "Getting started",
+    "title": "Publishing to the web through GitHub Pages",
+    "content": "GitHub Pages is a way to publish static websites. 1 Go to GitHub.com and create a new repository. Make sure to “initialise with a Read.me”. Note that the name of the repository will eventually be a part of your story url. . 2 Find your Twine file (your-story-name.html) and upload it to the new repository on GitHub . 3 In your GitHub repository go to “Settings” and then “Pages” in the left hand menu. From there select the “main” branch under “Source” and “Save” your change. It might take a few minutes for this to complete but eventually a url will appear on this page. This is the location of your new website. . 4 Go to your twine story by entering the url of your new GitHub Pages site at “your-username.github.io/your-repository-name/your-twine-story-name.html” . ",
+    "url": "http://localhost:4000/content/getting-started.html#publishing-to-the-web-through-github-pages",
+    "relUrl": "/content/getting-started.html#publishing-to-the-web-through-github-pages"
+  },"7": {
+    "doc": "Getting started",
+    "title": "Getting started",
+    "content": " ",
+    "url": "http://localhost:4000/content/getting-started.html",
+    "relUrl": "/content/getting-started.html"
+  },"8": {
+    "doc": "Outline",
+    "title": "Note: this workshop is in development and not yet complete.",
+    "content": "Description… . ",
+    "url": "http://localhost:4000/#note-this-workshop-is-in-development-and-not-yet-complete",
+    "relUrl": "/#note-this-workshop-is-in-development-and-not-yet-complete"
+  },"9": {
+    "doc": "Outline",
+    "title": "Learning objectives",
+    "content": "At the end of this workshop, you will be able to: 1. 2. 3. ",
+    "url": "http://localhost:4000/#learning-objectives",
+    "relUrl": "/#learning-objectives"
+  },"10": {
+    "doc": "Outline",
+    "title": "Schedule",
+    "content": "| 0:00 | Welcome and using Zoom | . | 0:05 | Introduction | . | 0:15 |   | . | 0:30 |   | . | 0:45 |   | . | 1:00 | Wrap-up and Discussion | . ",
+    "url": "http://localhost:4000/#schedule",
+    "relUrl": "/#schedule"
+  },"11": {
+    "doc": "Outline",
+    "title": "Resources",
+    "content": ". | [eg. link to external slides] | . ",
+    "url": "http://localhost:4000/#resources",
+    "relUrl": "/#resources"
+  },"12": {
+    "doc": "Outline",
+    "title": "Outline",
+    "content": " ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"13": {
+    "doc": "Introduction",
+    "title": "Introduction",
+    "content": "Twine describes itself as “an open-source tool for telling interactive, nonlinear stories”. It’s designed to be easy to use out of the box with no prior knowledge of web technologies or conditional logic but is also possible to do more with when you’re ready. Twine files are static web documents that you can embed content into, publish through minimal resources, and for . Explore the Twine website for a number of useful resources including the Twine Cookbook which is a reference resource with lots of examples! . ",
+    "url": "http://localhost:4000/content/introduction.html",
+    "relUrl": "/content/introduction.html"
+  },"14": {
+    "doc": "Introduction",
+    "title": "Minimal Computing",
+    "content": "Using a static site approach for digital storytelling prioritises longevity and different types of computational “minimalism”. That doesn’t necessarily mean that the project is simple just that it has characteristics that will make it durable. Usually Minimal Computing appraches generally means making use of simple file formats such as text files (.md, .txt, .html, .csv, .tsv, and more!). The goal of Minimal Computing is to answer two questions: . | Who will be able to see your work in 10 years? | Will they be able to see it or use it? | . Minimal might mean: . | Constrained | Underfunded | Fewer total number of technologies | Easier to maintain long-term | Fewer “dependencies” | Formats that are “future proofed” | . Read more about Minimal Computing here: https://go-dh.github.io/mincomp/about/ . ",
+    "url": "http://localhost:4000/content/introduction.html#minimal-computing",
+    "relUrl": "/content/introduction.html#minimal-computing"
+  },"15": {
+    "doc": "Introduction",
+    "title": "Practicing good UX (User Experience)",
+    "content": "Whenever you make a resource for the web it is important to consider a few basics of how the web works. Start with Jacob Nielsen’s Heuristics for usability design. ",
+    "url": "http://localhost:4000/content/introduction.html#practicing-good-ux-user-experience",
+    "relUrl": "/content/introduction.html#practicing-good-ux-user-experience"
+  },"16": {
+    "doc": "Land acknowledgement",
+    "title": "Land acknowledgement",
+    "content": "Before beginning the workshop, we’d like to acknowledge the indigenous lands where we are located. UBC Vancouver is located on the traditional, ancestral, and unceded territory of the xʷməθkʷəy̓əm (Musqueam), səl̓ilwətaɁɬ təməxʷ (Tsleil-Waututh), Stz’uminus, S’ólh Téméxw (Stó:lō), Skwxwú7mesh-ulh Temíx̱w (Squamish), and Coast Salish peoples. Please take a moment to explore native-land.ca so that you can visualize the indigenous territories, languages, and treaties in your area. ",
+    "url": "http://localhost:4000/land-acknowledgement.html",
+    "relUrl": "/land-acknowledgement.html"
+  },"17": {
+    "doc": "Participating online",
+    "title": "Participating online",
+    "content": "Active participation enlivens the session with other voices and perspectives. We encourage you to engage with instructors and with each other. Microphones are muted by default to improve audio quality and recording is disabled to preserve participant privacy. The Zoom toolbar provides several ways to be part of the conversation: . ",
+    "url": "http://localhost:4000/online.html",
+    "relUrl": "/online.html"
+  },"18": {
+    "doc": "Participating online",
+    "title": "Reactions menu",
+    "content": "Open the Reactions menu and click an icon to communicate with the instructors. Use this to answer yes/no questions or to raise your hand when instructors invite you to ask a question, comment, or share your screen. ",
+    "url": "http://localhost:4000/online.html#reactions-menu",
+    "relUrl": "/online.html#reactions-menu"
+  },"19": {
+    "doc": "Participating online",
+    "title": "Chat window",
+    "content": "Use the Chat window to comment or ask a question at any time. Instructors will do their best to respond, sometimes waiting for a break in the lesson to do so. The Chat window is a good place to report problems with your audio connection. Instructors may also use it to share links to material mentioned in the session. ",
+    "url": "http://localhost:4000/online.html#chat-window",
+    "relUrl": "/online.html#chat-window"
+  },"20": {
+    "doc": "Participating online",
+    "title": "Share your screen",
+    "content": "In some cases instructors may invite you to share your screen. Raise your hand to indicate that you’re ready to share. When called upon click Share screen, select a window to display, and click Share. ",
+    "url": "http://localhost:4000/online.html#share-your-screen",
+    "relUrl": "/online.html#share-your-screen"
+  },"21": {
+    "doc": "Participating online",
+    "title": "Contribute to the Whiteboard",
+    "content": "The Whiteboard is a collaborative space that everyone can annotate with drawings and text. When the whiteboard is shared click View options and select Annotate. This opens the annotation toolbar. Drawings and text you add to the screen will be visible to everyone in the session or breakout room. ",
+    "url": "http://localhost:4000/online.html#contribute-to-the-whiteboard",
+    "relUrl": "/online.html#contribute-to-the-whiteboard"
+  },"22": {
+    "doc": "Acknowledgements",
+    "title": "Twine links",
+    "content": ". | Twine homepage and downloads | Twine cloud editor | Twine Cookbook | . ",
+    "url": "http://localhost:4000/resources.html#twine-links",
+    "relUrl": "/resources.html#twine-links"
+  },"23": {
+    "doc": "Acknowledgements",
+    "title": "Example Twine projects",
+    "content": " ",
+    "url": "http://localhost:4000/resources.html#example-twine-projects",
+    "relUrl": "/resources.html#example-twine-projects"
+  },"24": {
+    "doc": "Acknowledgements",
+    "title": "Acknowledgements",
+    "content": " ",
+    "url": "http://localhost:4000/resources.html",
+    "relUrl": "/resources.html"
+  }
+}
