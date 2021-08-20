@@ -18,6 +18,8 @@ From the [Twine documentation](https://twinery.org/cookbook/questions/stories_sa
 
 **Online** - "Stories are saved in the local storage of a web browser. This is isolated between a browser and its use of incognito or private windows. Clearing sessions and cookies in a browser may also clear the storage of Twine 2. Using a different browser also means accessing different local storage."
 
+To save your work online go to your "home" view (by clicking on the little house in the bottom left hand corner of your editing screen). Click on the settings cog of the story that you want to save and select "Publish to file". This will create an html document of your story that will appear in your "Downloads" folder. To continue working on this same file at a later date you can use the "Import From File" feature in the right hand menu options.
+
 Always save your work when using the Online editor, especially clearing your cache.
 {: .warn}
 
