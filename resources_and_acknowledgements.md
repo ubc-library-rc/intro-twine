@@ -3,7 +3,7 @@ layout: default
 title: Resources and acknowledgements
 nav_order: 20
 ---
-## Twine links
+## Twine Links
 
 * [Twine homepage and downloads](https://twinery.org/)
 * [Twine cloud editor](https://twinery.org/2/)
@@ -13,7 +13,7 @@ nav_order: 20
 
 * [A total beginners guide to Twine 2.1](http://www.adamhammond.com/twineguide/)
 
-## Example Twine projects
+## Example Twine Projects
 
 * [Play Choice Texas](http://playchoicetexas.com)
     * Example of case study based narrative
