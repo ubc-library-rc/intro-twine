@@ -3,6 +3,8 @@ layout: default
 title: Resources and acknowledgements
 nav_order: 20
 ---
+# Resources
+
 ## Twine Links
 
 * [Twine homepage and downloads](https://twinery.org/)
@@ -22,7 +24,8 @@ nav_order: 20
 * [Death by Powerpoint](https://dhakajack.itch.io/death-by-powerpoint)
     * Example of visual effects
 
-## Library Resources
+
+# Library Resources
 
 - [Book a consultation](https://researchcommons.library.ubc.ca/consultation-requests/)
 - [View upcoming workshops](https://researchcommons.library.ubc.ca/workshops/)
