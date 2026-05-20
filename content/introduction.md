@@ -7,7 +7,7 @@ nav_order: 4
 
 [Twine](https://twinery.org/) describes itself as "an open-source tool for telling interactive, nonlinear stories". It's designed to be easy to use out of the box with no prior knowledge of web technologies or conditional logic but is also possible to do more with when you're ready. Twine files are static web documents that you can embed content into, publish through minimal resources, and for
 
-Explore the [Twine website](https://twinery.org/0) for a number of useful resources including the [Twine Cookbook](https://twinery.org/cookbook/) which is a reference resource with lots of examples!
+Explore the [Twine website](https://twinery.org/) for a number of useful resources including the [Twine Cookbook](https://twinery.org/cookbook/) which is a reference resource with lots of examples!
 
 # Minimal Computing
 Using a static site approach for digital storytelling prioritises longevity and different types of computational "minimalism". That doesn't necessarily mean that the project is simple just that it has characteristics that will make it durable. Usually Minimal Computing appraches generally means making use of simple file formats such as text files (.md, .txt, .html, .csv, .tsv, and more!).
