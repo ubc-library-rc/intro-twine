@@ -18,8 +18,7 @@ At the end of this workshop, you will be able to:
 
 ## Schedule
 
-| 0:00 | Welcome and using Zoom |
-| 0:05 | Introduction |  
+| 0:00 | Introduction |
 | 0:15 | Getting Started |
 | 0:45 | Extending Twine |   
 | 1:00 | Wrap-up and Discussion |
