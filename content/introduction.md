@@ -5,7 +5,7 @@ nav_order: 4
 ---
 # Introduction
 
-[Twine](https://twinery.org/) describes itself as "an open-source tool for telling interactive, nonlinear stories". It's designed to be easy to use out of the box with no prior knowledge of web technologies or conditional logic but is also possible to do more with when you're ready. Twine files are static web documents that you can embed content into, publish through minimal resources, and for
+[Twine](https://twinery.org/) describes itself as "an open-source tool for telling interactive, nonlinear stories". It's designed to be easy to use out of the box with no prior knowledge of web technologies or conditional logic but is also possible to do more with when you're ready. Twine files are static web documents that you can embed content into and publish through minimal resources.
 
 Explore the [Twine website](https://twinery.org/) for a number of useful resources including the [Twine Cookbook](https://twinery.org/cookbook/) which is a reference resource with lots of examples!
 
