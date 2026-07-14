@@ -47,8 +47,8 @@ Here are some common commands:
     * You can use a CSS file or in-line styling to change text colour and style
 
 * Inserting images
-    * To insert an image as is [img[name-of-image.png]]
-    * To use an inserted image as a link to a passage [img[name-of-image.png][New Passage]]
+    * To insert an image as is use <img src="image link"
+    * To use an inserted image as a link to a passage [[<img src="image link" alt="Clickable graphic">->Cat]] 
 
 You can always use HTLM in Twine as well. Whether it's inserting an iframe or using it for styling, Twine will accept HTML in the text editor.
 
